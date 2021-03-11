@@ -16,7 +16,7 @@ Basic python encryption program using cesar encryption to practice and learn the
 
 **RAS**
 
-**Juan Sebastian Barreto Jiménez ** - *Main team* - [juansebasbarreto](https://github.com/juansebasbarreto)
+**Juan Sebastian Barreto Jiménez** - *Main team* - [juansebasbarreto](https://github.com/juansebasbarreto)
 
 ## Licencia 📄
 
