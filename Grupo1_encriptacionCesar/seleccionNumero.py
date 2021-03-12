@@ -10,3 +10,5 @@ def seleccionar_numero():  # funcion 3
         Num=int(Num)
         
     return Num
+
+#Hecho por Daniel Ovalle
