@@ -24,7 +24,7 @@ while(selector != 3):
         mensaje_usuario(tasa_cesar, mensaje_cifrado)
     elif(selector == 2):
         try:
-            s = open('mensaje_cifrado_grupo1.txt', "rt")
+            s = open('mensaje_cifrado_grupo4.txt', "rt")
             s.close()
             tasa_cesar = seleccionar_numero()
             mensaje_decifrado = decifrado_cesar(tasa_cesar,  mensaje_a_lista(txt_a_mensaje()))

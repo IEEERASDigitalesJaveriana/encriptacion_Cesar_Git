@@ -4,8 +4,8 @@
 def cifrado_cesar(tasa, mensaje_lista):  # funcion 4
     carc = ""
     for i in mensaje_lista:
-        if i.isalpha:
-            codigo=ord(i)+tasa
+        if i.isalpha():
+            codigo=ord(i)+tasa  #ord(char)--> pasa a código ascii
             if i.islower():  #islower-->¿Es minúscula?   isupper-->¿Es mayúscula?
                 if codigo > 122:
                     codigo = 96 + (codigo - 122)
