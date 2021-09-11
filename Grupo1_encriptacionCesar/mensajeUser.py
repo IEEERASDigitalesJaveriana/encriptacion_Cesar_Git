@@ -2,6 +2,5 @@
 # parametros de entrada:    tasa - tasa que se uso para la encriptación
 #                           mensaje - mensaje encriptado en string
 def mensaje_usuario(tasa, mensaje_cifrado):  # funcion 6
-    print('Tu mensaje es:', mensaje_cifrado, 'La tasa usada es:', tasa)
     # no tiene retorno
     # imprime un mesaje al usuario en donde le muestra su mensaje y con que tasa se creo
